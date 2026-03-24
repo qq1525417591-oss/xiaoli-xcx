@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "校里·约拍",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/me/me",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/detail/detail",
+      "style": {
+        "navigationBarTitleText": "摄影师详情",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/apply/apply",
+      "style": {
+        "navigationBarTitleText": "入驻申请",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/audit-status/audit-status",
+      "style": {
+        "navigationBarTitleText": "入驻申请",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "个人信息",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/fav/fav",
+      "style": {
+        "navigationBarTitleText": "我的收藏",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/rules/rules",
+      "style": {
+        "navigationBarTitleText": "平台规则",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/rule-detail/rule-detail",
+      "style": {
+        "navigationBarTitleText": "规则详情",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/register/register",
+      "style": {
+        "navigationBarTitleText": "注册登录",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "校里·约拍",
+    "navigationBarBackgroundColor": "#f6f5f0",
+    "backgroundColor": "#f6f5f0"
+  }
+}
